@@ -55,3 +55,10 @@ PRs are very welcome, the goal is to make as good of a llm parser for recipes as
 possible.
 
 Please include a screenshot of the output for at least one recipe.
+
+### Future State
+
+- [ ] Make useable bots so that people don't have to copy paste the prompt and then add
+    the url.
+- [ ] Make iOS and android shortcuts so that people can send this prompt plus a URL
+    to an LLM of their choice from their phone.
