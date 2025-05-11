@@ -4,11 +4,23 @@
 
 Creates a table diagram to make any recipe on the web easier to follow
 
-I was inspired by [CookingForEngineers.com](https://www.cookingforengineers.com/recipe/230/Macaroni-and-Cheese-Bake)
-and [this Threads.com post](https://www.threads.com/@dreki/post/DJe_S36Sk28?xmt=AQF0dSKLjyodRC8Dg6o65F1DH6we4Rh3XqIhzkS3RtOyKw)
+I was inspired by
+[CookingForEngineers.com](https://www.cookingforengineers.com/recipe/230/Macaroni-and-Cheese-Bake)
+and [this Threads.com
+post](https://www.threads.com/@dreki/post/DJe_S36Sk28?xmt=AQF0dSKLjyodRC8Dg6o65F1DH6we4Rh3XqIhzkS3RtOyKw)
 
 
 ![example recipe](gemini_recipe_example.png)
+
+## Website Usage
+
+Please spend a bit of time on the website reviewing it before converting it to a table
+recipe. This will help with two things.
+
+1. You will have a rough idea of the recipe and won't waste your time and food on a
+   hallucination
+2. You will give ad revenue to the wonderful chefs doing hard work making delicious
+   meals (even if they don't know how to make a legible recipe)
 
 ## Prompts
 
@@ -39,6 +51,7 @@ Please replace `[URL]` with your desired URL.
 
 ## Contributing
 
-PRs are very welcome, the goal is to make as good of a llm parser for recipes as possible.
+PRs are very welcome, the goal is to make as good of a llm parser for recipes as
+possible.
 
 Please include a screenshot of the output for at least one recipe.
