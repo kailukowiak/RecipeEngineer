@@ -1,0 +1,23 @@
+Please analyze the recipe at [URL] and create a visual recipe flowchart diagram with merged cells following these specifications:
+1. Use HTML and CSS to create a grid-based layout with:
+- Ingredients listed in the leftmost column
+- Process stages as column headers (like "Preparation," "Mixing," "Baking," etc.)
+- Cells that properly merge both horizontally AND vertically to show the recipe flow
+1. Cell merging requirements:
+- CRITICAL: Merge cells vertically when the same action applies to multiple ingredients (e.g., if "Add to eggs" applies to vanilla, salt, and cinnamon, these should be in ONE tall merged cell spanning those rows)
+- Merge cells horizontally when an ingredient isn't used until later stages
+- Create empty cells (or colspan) for ingredients not used in certain stages
+- If multiple steps happen in sequence for the same ingredients, create separate cells within the same column
+1. Format requirements:
+- Light green borders (1px #008000) around all cells
+- Light mint background (#f0f7f0) for the entire table
+- Ingredient names in bold, with measurements and weights (grams) shown
+- Column headers should clearly identify each stage of the recipe process
+- Instructions should be concise (1-5 words per action)
+1. Layout specifics:
+- Group ingredients that are used together in the recipe
+- Place optional ingredients or toppings at the bottom of the table
+- Include preparation instructions like temperatures and times in relevant cells
+- Final column should include finishing steps
+1. Output the complete HTML and CSS code with all necessary styles to create this merged-cell flowchart diagram.
+The result should visually represent the recipe workflow in a single glance, with properly merged cells showing which ingredients are combined together and when.
