@@ -7,6 +7,9 @@ Creates a table diagram to make any recipe on the web easier to follow
 I was inspired by [CookingForEngineers.com](https://www.cookingforengineers.com/recipe/230/Macaroni-and-Cheese-Bake)
 and [this Threads.com post](https://www.threads.com/@dreki/post/DJe_S36Sk28?xmt=AQF0dSKLjyodRC8Dg6o65F1DH6we4Rh3XqIhzkS3RtOyKw)
 
+
+![example recipe](gemini_recipe_example.png)
+
 ## Prompts
 
 Currently we only have a single prompt for this to work found in `basic_prompt.txt`.
