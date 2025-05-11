@@ -1,5 +1,10 @@
 # RecipeEngineer
 
+Food is delicious but recipes are often hard to follow. This project attempts to allow
+anyone with access to an LLM the ability to modify a recipe to be easier to follow.
+
+Please use responsibly and support your local (internet) chef still.
+
 ## Overview
 
 Creates a table diagram to make any recipe on the web easier to follow
